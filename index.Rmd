@@ -1,6 +1,7 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Feedback Loops and Repetitive Conditionals"
+subtitle: "Exploring the Algorave Musicking Network Organisation"
+author: "Pietro Casari"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
