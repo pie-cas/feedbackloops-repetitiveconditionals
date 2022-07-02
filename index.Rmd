@@ -1,6 +1,5 @@
 --- 
-title: "Feedback Loops and Repetitive Conditionals"
-subtitle: "Exploring the Algorave Musicking Network Organisation"
+title: "Feedback Loops and Repetitive Conditionals: Exploring the Algorave Musicking Network Organisation"
 author: "Pietro Casari"
 site: bookdown::bookdown_site
 description: "This is an online public version of my M.A. thesis in 'Sociology
