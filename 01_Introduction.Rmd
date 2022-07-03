@@ -1,11 +1,11 @@
 # Introduction {-}
 
 >“In times when algorithms are used to alienate us
-and music is reduced and consumed as ‘content’,
-a group of ravers and musicians use algorithms
-to bring people together in dancefloors,
-perform music and live code experiences 
-to make music taking place”
+>and music is reduced and consumed as ‘content’,
+>a group of ravers and musicians use algorithms
+>to bring people together in dancefloors,
+>perform music and live code experiences 
+>to make music taking place”
 >
 >(Geraldine Juárez) ^[This quotation and the information reported in the first part of this chapter are retrieved from: http://fffff.at/f-a-t-nika-2014-algorave/ and https://algorave.com/2014/09/14/f-a-t-nika-2014-goes-to-algorave/ (last accessed, 10/05/2022).]
 
