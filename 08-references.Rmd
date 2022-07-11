@@ -1,0 +1,181 @@
+# References {-}
+
+Abbott, A. (1983). “Sequences of social events: Concepts and methods for the analysis of order in social processes”. _Historical Methods: A Journal of Quantitative and Interdisciplinary History_, 16(4), 129-147.
+Abbott, A. (1988). _The System of Professions_. Chicago: University Chicago Press.
+Abbott, A. (1995). “Sequence analysis: New methods for old ideas”. _Annual Review of Sociology_, 21(1), 93-113.
+Abbott, A. (2001). _Time matters: On Theory and Method_. Chicago, IL: University of Chicago Press.
+Alexander, J. C. (Ed.). (1987). _The micro-macro link_. Berkeley (CA): University of California Press.
+Alexander, J. C. (1987a). “Action and its Environment”. In his The micro-macro link (pp. 289-318). Berkeley (CA): University of California Press.
+Alexander, J.C. (2004). “Cultural Pragmatics: Symbolic Action between Ritual and Strategy”. _Sociological  Theory_,  4: 527-573.
+Alexander, J. C. (2006). _The Meanings of Social Life: A Cultural Sociology_. Oxford: Oxford University Press.
+Alexander, J.C. (2006a). “Performance  and  Power”. _Culture.  Newsletter  of  the  Sociology  of Culture Section of the American Sociological Association_, 20 (1): 1-5.
+Alexander, J. C. (2010). _The Performance of Politics: Obama’s Victory and the Democratic Struggle for Power_. Oxford: Oxford University Press.
+Alexander, J. C. (2011). _Performance and Power_. Cambridge: Polity.
+Amoore, L. and Piotukh, V. (2015). “Life beyond Big Data: Governing with Little Analytics.” _Economy and Society_, 44 (3).
+Amrani, I. (2017, November 30th). “Run the code: is algorave the future of dance music?”. The Guardian. https://www.theguardian.com/music/2017/nov/30/is-algorave-the-future-of-dance-music-sheffield-algomech-festival
+Anderson, T. L. (2009). _Rave Culture_. Philadelphia, PA: Temple University Press.
+Anderson, T. L., and Kavanaugh, P. R. (2007). “A ‘Rave’ Review: Conceptual Interests and Analytical Shifts in Research on Rave Culture”. _Sociology Compass_, 1(2), 499-519.
+Armitage, J. (2018). “Spaces To Fail In: Negotiating Gender, Community and Technology in Algorave”. _Dancecult: Journal of Electronic Dance Music Culture_, 10(1).
+Armitage, J., and Thornham, H. (2021). “Don’t Touch My MIDI Cables: Gender, Technology and Sound in Live Coding”. _Feminist Review_, 127(1), 90–106.
+Baldassarri, D. (2017). “Collective action”. In P. Hedström and P. Bearman (Eds.) The Oxford handbook of analytical sociology (pp. 391-418). Oxford: Oxford University Press.
+Barocas, S., Hood, S., and Ziewitz, M. (2013). “Governing Algorithms: A Provocation Piece”. Available at SSRN: https://ssrn.com/abstract=2245322
+Becker, H. S. (1974). “Art as Collective Action”. _American Sociological Review_, 39(6), 767-76.
+Becker, H. S. (2000). “The Etiquette of Improvisation”. _Mind, Culture, and Activity_, 7(3), 171-176.
+Becker, H. (2004). “Jazz places”. In A. Bennett and R.A. Peterson (Eds.), Music Scenes: Local, Translocal and Virtual (pp. 17-27). Nashville, TN: Vanderbilt University Press.
+Becker, H. S. (2008 [1982]). _Art Worlds – 25th Anniversary Edition_. Berkeley (CA): University of California Press.
+Beer, D. G. (2017). “The Social Power of Algorithms”. _Information, Communication and Society_, 1-13.
+Bennett, A., and Peterson, R.A. (2004). “Introducing Music Scenes”. In their Music Scenes Local, Translocal, and Virtual (pp. 1-16). Nashville, TN: Vanderbilt University Press.
+Berry, D. M. (2011). _The Philosophy of Software: Code and Mediation in the Digital Age_. London: Palgrave Macmillan.
+Blackwell, A. F., Cox, G., and Lee, S. W. (2016). Live writing the live coding book. In Proceedings of International Conference on Live Coding (Leeds, United Kingdom, 2015).
+Blumer, H. (1969). Symbolic Interactionism. Englewood Cliffs, NJ: Prentice-Hall.
+Borgatti, S.P. (2002). Netdraw Network Visualization. Analytical Technologies: Harvard, MA
+Borgatti, S. P., and Everett, M. G. (1997). “Network analysis of 2-mode data”. _Social Networks_, 19: 243–269.
+Borgatti, S. P., and Everett, M. G. (2000). “Models of Core/Periphery Structures”. _Social Networks_, 21(4), 375-395.
+Borgatti, S.P., Everett, M.G. and Freeman, L.C. (2002). Ucinet 6 for Windows: Software for Social Network Analysis. Harvard, MA: Analytic Technologies.
+Borgatti, S. P., Everett, M. G., and Johnson, J. C. (2018). _Analyzing social networks_. 2nd ed. London: SAGE Publications.
+Bottero, W. and Crossley, N. (2011). “Worlds, Fields and Networks”. _Cultural Sociology_, 5(1), 99–119.
+Brown, A. (2018). “Tactical Temporalities: A live coding performance”. In xCoAx 2014: Proceedings of the Second Conference on Computation, Communication, Aesthetics and X, Porto, Portugal. Available at https://core.ac.uk/download/pdf/143870847.pdf 
+Burland, K., and McLean, A. (2016). “Understanding live coding events”. _International Journal of Performance Arts and Digital Media_, 12(2), 139-151.
+Cheney-Lippold, J. 2011. “A New Algorithmic Identity: Soft Biopolitics and the Modulation of Control”. _Theory, Culture and Society_, 28 (6): 164–181.
+Cheshire, T. (2013, August 29th). “Hacking meets clubbing with the ‘algorave’“. Wired. https://www.wired.co.uk/article/algorave
+Cohen, S. (1991). _Rock Culture in Liverpool_. Oxford: Clarendon Press.
+Cohen, S. (1997). “Men Making A Scene”. In Whiteley, S. (Ed.) Sexing the Groove (pp. 17-36). London: Routledge.
+Collins, N., and McLean, A. (2014). “Algorave: Live performance of algorithmic electronic dance music”. In Proceedings of the International Conference on New Interfaces for Musical Expression (pp. 355-358).
+Collins, R. (2020). “Social Distancing as a Critical Test of the Micro-sociology of Solidarity”. _American Journal of Cultural Sociology_, 8(3), 477-497.
+Cox, G., and McLean, A. (2013). _Speaking Code: Coding as Aesthetic and Political Expression_. Boston (MA): MIT Press.
+Crossley, N. (2008) “Pretty Connected: The Social Network of the Early UK Punk Movement”. _Theory, Culture and Society_, 25(6), 89–116.
+Crossley, N. (2009) “The Man Whose Web Expanded: Network Dynamics in Manchester’s Post-Punk Music Scene 1976–1980”. _Poetics_, 37(1), 24–49.
+Crossley, N. (2015). _Networks of sound, style and subversion: The punk and post-punk worlds of Manchester, London, Liverpool and Sheffield, 1975–80_. Manchester: Manchester University Press.
+Crossley, N. (2015a). “Body Techniques and Music Worlds: The Embodiment of Musicking”. _Cultural Sociology_, 9(4), 471–92.
+Crossley, N. (2015b). “Relational Sociology and Culture: A Preliminary Framework”. _International Review of Sociology_, 25(1), 65–85.
+Crossley, N. (2020). _Connecting sounds_. Manchester: Manchester University Press.
+Crossley, N. and Bottero, W. (2014). “Beyond Bourdieu: A Reply to Emmet Fox”. _Cultural Sociology_, 8(2), 197–203.
+Crossley, N., and Bottero, W. (2015). “Music Worlds and Internal Goods”. _Cultural Sociology_, 9(1), 38–55.
+Crossley, N., and Diani, M. (2019). “Networks and fields”. In D. A. Snow, S. A. Soule, H. Kriesi, and H. J. McCammon (Eds), The Wiley Blackwell Companion to Social Movements (pp. 149-166). Hoboken, NJ: John Wiley & Sons.
+Crossley, N., and Emms, R. (2016) “Mapping the Musical Universe: A Blockmodel of UK Music Festivals 2011–13”. _Methodological Innovations_, 1(1).
+Crossley, N., McAndrews, S. and Widdop, P. (2015). _Social Networks and Music Worlds_. London: Routledge.
+Crossley, N., and Ozturk, T. A. (2019). “Music, social structure and connection: Exploring and explaining core-periphery structure in a two-mode network of music festivals and artists in Turkey”. _Miscellanea Anthropologica et Sociologica_, 20(2), 192-210.
+Della Porta, D., and Rucht, D. (2002). “The Dynamics of Environmental Campaigns”. _Mobilization_, 7(1): 1-14.
+Devendorf, L. and Goodman, E. (2014). “The Algorithm Multiple, the Algorithm Material.” _Contours of Algorithmic Life_, UC Davis, May. 
+Dewey, J. (1969). _Democracy and Education_. New York, NY: Macmillan.
+Di Prospero, C. (2013). “Livecoding. Performances que expanden los límites de la experiencia analógico/digital”. In VII Jornadas Santiago Wallace de Investigación en Antropología Social. Sección de Antropología Social. Instituto de Ciencias Antropológicas. Facultad de Filosofía y Letras, UBA.
+Diani, M. (2003). “Introduction: Social Movements, Contentious Actions, and Social Networks: ‘From Metaphor to Substance’?”. In M. Diani and D. McAdam (Eds.), Social Movements and Networks: Relational Approaches to Collective Action (pp. 1-18). Oxford: Oxford University Press.
+Diani, M. (2003a). “Networks and Social Movements: A Research Programme”. In M. Diani and D. McAdam (Eds.), Social Movements and Networks: Relational Approaches to Collective Action (pp. 299-319). Oxford: Oxford University Press.
+Diani, M. (2009). “The Structural Bases of Protest Events: Multiple Memberships and Civil Society Networks in the 15 February 2003 Anti-war Demonstrations”. Acta Sociologica, 52(1), 63-83.
+Diani, M. (2015). _The cement of civil society_. Cambridge: Cambridge University Press.
+Diani, M., and McAdam, D. (2003). _Social movements and networks: Relational approaches to collective action_. Oxford: Oxford University Press.
+Diani, M., and Kousis, M. (2014). “The duality of claims and events: The Greek campaign against the Troika’s memoranda and austerity, 2010-2012”. _Mobilization_, 19(4), 387-404.
+Diani, M., and Mische, A. (2015). “Network Approaches and Social Movements”. In D. della Porta and M. Diani (Eds.), The Oxford Handbook of Social Movements (pp. 306-325). Oxford: Oxford University Press.
+Dominguez Rubio, F. (2015). “Semiosis Beyond Culture: An Ecological Approach”. _Culture Section Newsletter_, 27(2).
+Dourish, P. (2016) “Algorithms and their others: Algorithmic culture in context”. _Big Data and Society_, 3(2): 1–11.
+Durkheim, E. (1915). _Elementary Forms of the Religious Life_. New York, NY: Free Press.
+Dylan Wray, D. (2013, November 25th). “ ‘Algorave’ Is the Future of Dance Music (if You’re a Nerd) - Creating Music With Computer Code”. Noisey (Vice). https://www.vice.com/en/article/bn5zz4/algorave-is-the-future-of-dance-music-if-youre-an-html-coder
+Emms, R. and Crossley, N. (2018). “Trans-Locality, Network Structure and Music Worlds: Underground Metal in the UK”. _Canadian Review of Sociology_, 55(1), 111–35.
+Everett, M. G., and Borgatti, S. P. (2013). “The Dual-projection Approach for Two-mode Networks”. _Social Networks_, 35(2), 204-210.
+Fararo, T. J., and Doreian, P. (1984). “Tripartite structural analysis: Generalizing the Breiger-Wilson formalism”. _Social Networks_, 6(2), 141-175.
+Faulkner, R. R., and Becker, H. S. (2009). _“Do you know...?”: The jazz repertoire in action_. Chicago, IL: University of Chicago Press.
+Finnegan, R. (1989). _The Hidden Musicians: Music-Making in an English Town_. Cambridge: Cambridge University Press.
+Fish, S. (1980). _Is There a Text in This Class?_ Cambridge: Cambridge University Press.
+Freeman, L. C. (1979). “Centrality in Social Networks: Conceptual Clarification”. _Social Networks_, 1(3), 215-239.
+Fritz, J. (1999). _Rave Culture: An Insider’s Overview_. Canada: SmallFry Press.
+Fuller, M. (Ed.). (2008). _Software studies: A lexicon_. Cambridge, MA: MIT Press.
+Geertz, C. (1973). “Thick Description: Toward an Interpretive Theory of Culture”. _Turning points in qualitative research_, 3, 143-168.
+Gerlach, L. P. (1971). “Movements of revolutionary change: Some structural characteristics”. _American Behavioral Scientist_, 14(6), 812-836.
+Gilmore, S. (1987). “Coordination and Convention: The Organization of the Concert World”. _Symbolic Interaction_, 10(2), 209-227.
+Gilmore, S. (1988). “Schools of Activity and Innovation”. _The Sociological Quarterly_, 29(2), 203-219.
+Gieryn, T. F. (2000). “A Space for Place in Sociology”. _Annual Review of Sociology_, 26(1), 463-496.
+Goffey, A. (2008). “Algorithm”. In M. Fuller (Ed.). Software studies: a lexicon (pp.15-20). Cambridge, MA: MIT Press.
+Goffman, E. (1986). _Frame analysis: An essay on the organization of experience_. Boston, MA: Northeastern University Press.
+Goldschlager, L., and Lister, A. (1986). _Computer Science: A modern introduction_. Prentice Hall International (UK) Ltd.
+Gross, N. (2009). “A Pragmatist Theory of Social Mechanisms”. _American Sociological Review_, 74(3), 358-379.
+Hassan, H. M., and Staggenborg, S. (2015). “Movements as communities”. In D. della Porta and M. Diani (Eds.), The Oxford Handbook of Social Movements (pp. 340-354). Oxford: Oxford University Press.
+Haworth, C. (2018). “Technology, Creativity and the Social in Algorithmic Music”. In A. McLean and R.T. Dean (Eds), The Oxford Handbook of Algorithmic Music (pp. 557-582). Oxford: Oxford University Press.
+Hield, F. and Crossley, N. (2015). “Tastes, Ties and Social Space: Exploring Sheffield’s Folk Singing World”. In N. Crossley, S. McAndrew, and P. Widdop (Eds), Social Networks and Music Worlds (pp. 213-240). London: Routledge.
+Himanen, P. (2001). _The Hacker Ethic and the Spirit of the Information Age_. New York, NY: Random House.
+Hindmarsh, J., and Heath, C. (2007). “Video‐based studies of work practice”. _Sociology Compass_, 1(1), 156-173.
+Jarvis, S. (2007). _Adorno: A Critical Introduction_. Cambridge: Polity Press.
+Joas, H. (1996). _The Creativity of Action_. Chicago, IL: University of Chicago Press.
+Joas, H., and Beckert J. (2002). “Action Theory”. In J. H. Turner (Ed.) Handbook of Sociological Theory (pp. 269-285). Boston, MA: Springer.
+Kitchin, R. (2017). “Thinking Critically About and Researching Algorithms”. _Information, Communication and Society_, 20(1), 14-29.
+Kitchin, R., and Dodge, M. (2011). _Code/space: Software and Everyday Life_. Cambridge, MA: MIT Press.
+Knoblauch, H., Baer, A., Laurier, E., Petschke, S., and Schnettler, B. (2008). “Visual analysis. New developments in the interpretative analysis of video and photography”. In Forum Qualitative Sozialforschung/Forum: Qualitative Social Research (Vol. 9, No. 3).
+Knoblauch, H., and Schnettler, B. (2012). “Videography: Analysing video data as a ‘focused’ ethnographic and hermeneutical exercise”. _Qualitative Research_, 12(3), 334-356.
+Knoke, D., Diani, M., Hollway, J., and Christopoulos, D. (2021). _Multimodal Political Networks_ (Vol. 50). Cambridge: Cambridge University Press.
+Kowalski, R. 1979. “Algorithm = Logic + Control”. _Communications of the ACM_, 22(7): 424–436.
+Lave, J., and Wenger, E. (1991). _Situated Learning: Legitimate Peripheral Participation_. Cambridge: Cambridge University Press.
+Lee, S. W. (2019). “Show Them My Screen: Mirroring a Laptop Screen as an Expressive and Communicative Means in Computer Music”. In NIME (pp. 443-448).
+Levy, S. (1984). _Hackers: Heroes of the Computer Revolution_. Garden City, NY: Anchor Press/Doubleday.
+Liszka, J. J. (1996). _A General Introduction to the Semiotic of Charles Sanders Peirce_. Indiana University Press.
+Lizardo, O., and Strand, M. (2010). “Skills, Toolkits, Contexts and Institutions: Clarifying the Relationship between Different Approaches to Cognition in Cultural Sociology”. _Poetics_, 38 (2): 205–228.
+MacKenzie, D. (2019). “How algorithms interact: Goffman’s ‘interaction order’in automated trading”. _Theory, Culture and Society_, 36(2), 39-59.
+Mager, A. 2012. “Algorithmic Ideology: How Capitalist Society Shapes Search Engines.” _Information, Communication and Society_, 15 (5): 769–787.
+Magnusson, T. (2014). “Herding cats: Observing live coding in the wild”. _Computer Music Journal_, 38(1), 8-16.
+Manovich, L. (2000). _The Language of New Media_. Cambridge, MA: MIT Press.
+Martin, J. L. (2010). “Life’s a Beach but You’re an Ant, and Other Unwelcome News for the Sociology of Culture”. _Poetics_, 38 (2): 228–244.
+Martin, J. L. (2011). _The Explanation of Social Action_. New York, NY: Oxford University Press.
+Martin, P. (2005). “The Jazz Community as an Art World: A Sociological Perspective”. _Jazz Research Journal_, 2(1), 5–13.
+Martin, P. (2006). “Musicians Worlds”. _Symbolic Interaction_, 29(1), 95-107.
+Marx, K. (1963 [1852]). _The Eighteenth Brumaire of Louis Bonaparte_. New York, NY: International.
+McCormack, J., and M. d’Inverno (Eds.) (2012). _Computers and Creativity_. Berlin: Springer.
+McLean, A. (2019). “Algorave: Dancing to Algorithms”. In The Cambridge Companion to Music in Digital Culture, edited by Nicholas Cook, Monique M. Ingalls, and David Trippett, 175–177. Cambridge Companions to Music. Cambridge University Press. 
+McRobbie, A. (1984) “Dance and social fantasy”. In A. McRobbie and M. Nava (Eds.) Gender and Generation (pp. 130-161), London: Macmillan.
+Mead, G. H. (1934). _Mind, Self, and Society_. Chicago, IL: University of Chicago Press.
+Melucci, A. (1988). “Getting Involved: Identity and Mobilization in Social Movements”. _International Social Movement Research_, 1(26), 329-48.
+Melucci, A. (1989). _Nomads of the Present: Social Movements and Individual Needs in Contemporary Society_. Philadelphia, PA: Temple University Press.
+Melucci, A. (1995). “The Process of Collective Identity”. In H. Johnston and B. Klandermans (Eds.) Social Movements and Culture (pp. 41-63). London: Routledge.
+Melucci, A. (1996). _Challenging Codes: Collective Action in the Information Age_. Cambridge: Cambridge University Press.
+Miranda, E. (2001). _Composing with Computers_. Oxford: Focal Press.
+Mische, A. (2003). “Cross-talk in Movements: Reconceiving the Culture-network Link”. In M. Diani and D. McAdam (Eds.), Social Movements and Networks: Relational Approaches to Collective Action (pp. 258-80). Oxford: Oxford University Press.
+Molnár, V. (2013). _Building the state: Architecture, politics, and state formation in postwar Central Europe_. London: Routledge.
+Molotch, H., and Norén, L. (Eds.). (2010). _Toilet: Public restrooms and the politics of sharing_ (Vol. 1). NYU Press.
+Mori, G. (2020). _Live Coding? What does it mean? An Ethnographical Survey on an Innovative Improvisational Approach_. Aprilia: Aracne Editore.
+Mukerji, C. (1997). _Territorial ambitions and the gardens of Versailles_. Cambridge University Press.
+Murray, S. (2020). “Postdigital cultural studies”. _International Journal of Cultural Studies_, 23(4), 441-450.
+Nelson, T. H. (1987 [1974]). _Computer Lib: Dream Machines_. Redmond, WA: Tempus Books of Microsoft Press.
+Nembhard, E. (2014). “Algorave”. Now Then Magazine, Issue 72 (March 2014). https://nowthenmagazine.com/articles/algorave
+Ng, S. (2005). “Performing the “Filipino” at the Crossroads: Filipino bands in five-star hotels throughout Asia”. _Modern Drama_, 48(2), 272-296.
+Nilson, C. (2007). “Live coding practice”. In Proceedings of the 7th international conference on New interfaces for musical expression (pp. 112-117).
+Norton, M. (2014). “Mechanisms and meaning structures”. _Sociological Theory_, 32(2), 162-187.
+Norton, M. (2019). “Meaning on the Move: Synthesizing Cognitive and Systems Concepts of Culture”. _American Journal of Cultural Sociology_, 7(1), 1-28.
+Nóvoa, A. (2012). “Musicians on the Move: Mobilities and Identities of a Band on the Road”. _Mobilities_, 7(3), 349-368.
+Parsons, T. (1949). _The Structure of Social Action_. New York (NY): Free press.
+Peirce, C. S. (1974). _Collected papers of Charles Sanders Peirce (Vol. 2 and 5)_. Harvard University Press.
+Peters, P. (2016). “Waltzing Around the World”. In K. Hannam, M. Mostafanezhad, and J. Rickly (Eds.) Event Mobilities: Politics, place and performance (pp. 25-39). London: Routledge.
+Pini, M. (1997). “Women and the Early British Rave Scene”. In Angela McRobbie (Ed.) Back to Reality: Social Experience and Cultural Studies (pp. 152-69). Manchester: Manchester University Press.
+Pizzorno, A. (1983). “Sulla Razionalità della Scelta Democratica”. _Stato e Mercato_, 7, 3-46.
+Prior, N. (2018). _Popular Music, Digital Technology and Society_. London: Sage.
+Ramella, A. L. (2018). “Deciphering Movement and Stasis: Touring Musicians and their Ambivalent Imaginings of Home and Belonging”. _International Journal of Tourism Anthropology_, 6(4), 323-339.
+Reed, I. (2011). _Interpretation and Social Knowledge: On the Use of Theory in the Human Sciences_. Chicago, IL: University of Chicago Press.
+Reynolds, S. (2013). _Energy Flash: A Journey Through Rave Music and Dance Culture_. London: Faber and Faber.
+Ruiz-del Olmo, F.J., Vertedor-Romero, J.A., and J.M. Alonso-Calero (2019). “Creación sonora y nuevas tendencias artísticas en el siglo XXI: Algoritmos, música electrónica y Algorave”. _Arte, Individuo y Sociedad_, 31(2), 425-440.
+Salazar, S., and Armitage, J. (2018). “Re-engaging the Body and Gesture in Musical Live Coding”. Available at https://www.hackingculture.org/sites/default/files/articles/salazar-armitage--re-engaging-the-body-and-gesture-in-musical-live-coding.pdf (last access: 12/12/2020)
+Sartori, G. (1970). “Concept Misformation in Comparative Politics”. _American Political Science Review_, 64(4), 1033-1053.
+Schütz, A. (1951). “Making music together: A study in social relationship”. _Social research_, 18 (1), 76-97.
+Seaver, Nick. 2013. “Knowing Algorithms.” In Media in Transition (8). Cambridge, MA
+Seaver, N. (2017). “Algorithms as culture: Some tactics for the ethnography of algorithmic systems”. _Big Data and Society_, 4(2).
+Seyfert, R., and Roberge, J. (2016). “What are algorithmic cultures”. In their Algorithmic Cultures: Essays on Meaning, Performance and New Technologies (pp. 1-25). New York (NY): Routledge.
+Seyfert, R., and Roberge, J. (Eds.). (2016a). _Algorithmic Cultures: Essays on Meaning, Performance and New Technologies_. London: Routledge.
+Sharp, S. (2020, February 12th). “What Is Algorave? Live Coding With Alex Mclean”. PinkWafer. https://pinkwafer.club/2020/02/12/algorave/
+Shibutani, T. (1955). “Reference Groups as Perspectives”. _American Journal of Sociology_, 60, 522-529.
+Simmel, G. (2015 [1882]). “Psychological and Ethnological Studies on Music”. In J. Shepherd and K. Devine (Eds.), The Routledge Reader on the Sociology of Music (pp. 35-42). New York, NY: Routledge.
+Small, C. (1998). _Musicking: the Meanings of Performing and Listening_. Middletown, CT: Wesleyan University Press.
+St John, G. (Ed.) (2004). _Rave Culture and Religion_. Vol. 8. London: Routledge.
+Strauss, A. (1978). “A Social World Perspective”. _Studies in Symbolic Interaction_, 1, 119-128.
+Théberge, P. (1997). _Any Sound You Can Imagine: Making Music/Consuming Technology_. Middletown, CT: Wesleyan University Press
+Thornton, S. (1994). “Moral Panic, The Media and British Rave Culture”. In A. Ross and T. Rose (Eds.), Microphone fiends: Youth music & youth culture (pp. 176-192). New York, NY: Routledge.
+Thornton, S. (1996). _Club cultures: Music, Media, and Subcultural Capital_. Middletown, CT: Wesleyan University Press.
+Tilly, C. (1978). _From Mobilization to Revolution_. Reading, MA: Addison-Wesley.
+Tilly, C. (2005). _Identities, Boundaries, and Social Ties_. Boulder, CO: Paradigm.
+Turino, T. (2008). _Music as Social Life_. Chicago, IL: Chicago University Press.
+Turner, G. (2003). _British Cultural Studies: An Introduction_, 3rd ed. London: Routledge.
+Uricchio, W. 2011. “The Algorithmic Turn: Photosynth, Augmented Reality and the Changing Implications of the Image.” _Visual Studies_, 26 (1): 25–35.
+Vaisey, S. (2009). “Motivation and Justification: A Dual-Process Model of Culture in Action”. _American Journal of Sociology_, 114(6), 1675–1715.
+Verbuč, D. (2022). “DIY Touring Practices: Assembling the Translocal DIY Community”. In his DIY House Shows and Music Venues in the US: Ethnographic Explorations of Place and Community (pp. 203-228). London: Routledge.
+Villaseñor-Ramírez H., and Paz-Ortiz I. (2020). “Live coding from scratch: The cases of practice in Mexico City and Barcelona”. ICLC, University of Limerick, 2020.
+Wagner-Pacifici, R. (2010). “Theorizing the restlessness of events”. _American Journal of Sociology_, 115(5), 1351-1386.
+Wansleben, L. 2012. “Heterarchien, Codes und Kalküle. Beitrag zu einer Soziologie des algo trading.” _Soziale Systeme_, 18 (1–2): 225–259.
+Weber, M. (2015 [1920]). “Rational and Social Foundations of Music”. In J. Shepherd and K. Devine (Eds.), The Routledge Reader on the Sociology of Music (pp. 43-7). New York, NY: Routledge.
+Weber, M. (1968 [1921]). _Economy and Society_. Berkeley: University of California Press.
+White, H. C. (1970). _Chains of Opportunity_. Cambridge, MA: Harvard University Press.
+Wenger, E. (1998). _Communities of Practice: Learning, Meaning, and Identity_. Cambridge: Cambridge University Press.
+Zendel, A. (2021). “‘There are no Days Off, Just Days Without Shows’: Precarious Mobilities in the Touring Music Industry”. _Applied Mobilities_, 6(2), 184-201.

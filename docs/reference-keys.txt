@@ -18,3 +18,13 @@ making-alternative-spaces-or-the-politics-of-musicking
 appendix-a---algorave-general-guidelines-and-code-of-conduct
 appendix-b---set-the-algorithm-in-motion-live-scripting-and-the-human-algorithm-interaction-in-social-situations
 appendix-c---list-of-algorave-events-17032012-17032017
+algorave-general-guidelines-and-code-of-conduct
+set-the-algorithm-in-motion-live-scripting-and-the-human-algorithm-interaction-in-social-situations
+list-of-algorave-events-17032012-17032017
+studying-software
+algorithms-and-culture
+moving-meanings
+toward-an-ecological-approach-in-algorithmic-culture
+set-the-algorithm-in-motion
+analysis
+conclusions

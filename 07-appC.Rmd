@@ -1,1 +1,96 @@
-# Appendix C - List of Algorave Events (17/03/2012-17/03/2017)
+# _List of Algorave Events (17/03/2012-17/03/2017)_
+
+
+ID	Name	Date	Location
+
+A1	Supercollider 2012 Warm Up – Live Algorave	17/03/2012	London, UK
+A2	Network Music Festival 2013	23/02/2013	Birmingham, UK
+A3	Algorave Volks nightclub	17/04/2013	Brighton, UK
+A4	Algorave on the MS Stubnitz	18/04/2013	London, UK
+A5	Livecodefest	20/04/2013	Karlsruhe, GER
+A6	Algorave Volks nightclub	16/05/2013	London, UK
+A7	Musical Metacreation Weekend	14/06/2013	Sydney, AUS
+A8	Homegrown Hamilton	09/08/2013	Hamilton, CAN
+A9	Allcaps festival	10/08/2013	Toronto, CAN
+A10	London Algorave	14/09/2013	London, UK
+A11	Earzoom festival	14/10/2013	Ljubljana, SLV
+A12	Algorave comes to Sheffield	07/11/2013	Sheffield, UK
+A13	Livecoding: a performance by Alex McLean	28/11/2013	London, UK
+A14	Algorave Barcelona	01/12/2013	Barcelona, SPA
+A15	ftftftf (Japan)	05/01/2014	Tokyo, JAP
+A16	Code Matter(s)	22/03/2014	Amsterdam, NLD
+A17	Gateshead Algorave	26/04/2014	Gateshed, UK
+A18	Trix	17/05/2014	Antwerp, BEL
+A19	Algorave Mexico	07/06/2014	Mexico City, MEX
+A20	Algorave Brussels	21/06/2014	Brussels, BEL
+A21	xCoAx 2014	27/06/2014	Porto, POR
+A22	Live Coding Workshop	28/06/2014	Zurich, SWI
+A23	NIME 2014	03/07/2014	London, UK
+A24	Algorave The Loft	04/07/2014	Brighton, UK
+A25	Algorave Audacious Space	06/07/2014	Sheffield, UK
+A26	Enjoy Art Space	07/07/2014	Leeds, UK
+A27	Deaf Institute	08/07/2014	Manchester, UK
+A28	The Woolpack Inn	09/07/2014	York, UK
+A29	Network Music Festival 2014	26/09/2014	Birmingham, UK
+A30	Club Fierce Algorave	04/10/2014	Birmingham, UK
+A31	λ Sonic Algorave	28/10/2014	Gent, BEL
+A32	Jubez Algorave	17/01/2015	Karlsruhe, GER
+A33	Screenshake festival	06/02/2015	Antwerp, BEL
+A34	Electric spring festival	20/02/2015	Huddersfield, UK
+A35	Gateshead Algorave #2	14/03/2015	Gateshed, UK
+A36	Computer Club Algorave	20/03/2015	Sheffield, UK
+A37	LICA Algorave	16/05/2015	Lancaster, UK
+A38	Do It Anyway festival	17/05/2015	Sheffield, UK
+A39	Algorave Santa Barbara	09/06/2015	Santa Barbara, USA
+A40	xCoAx 2015	26/06/2015	Glasgow, UK
+A41	Sheffield Algorave #23423415235723	11/07/2015	Sheffield, UK
+A42	ICLC 2015 (Left Bank)	13/07/2015	Leeds, UK
+A43	ICLC 2015 (Wharf Chambers)	15/07/2015	Leeds, UK
+A44	ISEA 2015	14/08/2015	Vancouver, CAN
+A45	British Science Festival	07/09/2015	Bradford, UK
+A46	Incubate festival	18/09/2015	Tilburg, NLD
+A47	Japan Algorave Tour #1 - Blackout	03/10/2015	Fukuoka, JAP
+A48	Japan Algorave Tour #2 - 0g	04/10/2015	Osaka, JAP
+A49	Japan Algorave Tour #3 - Urban Guild	08/10/2015	Kyoto, JAP
+A50	Japan Algorave Tour #4 - Soup	10/10/2015	Tokyo, JAP
+A51	Connect the Dots festival	10/10/2015	Sheffield, UK
+A52	Manchester Algorave #2	12/11/2015	Manchester, UK
+A53	Jubez Algorave #2	14/11/2015	Karlsruhe, GER
+A54	ftftftf #2 (Japan)	19/11/2015	Tokyo, JAP
+A55	London Algorave #2	18/12/2015	London, UK
+A56	Algorave at Electronic Extravaganza Mini-festival	11/02/2016	Amsterdam, NLD
+A57	Eulerroom #2	09/04/2016	Sheffield, UK
+A58	Minnesota Algorave #1	15/04/2016	Hopkins, USA
+A59	Hamburg Algorave	21/04/2016	Hamburg, GER
+A60	Leeds Algorave - ODI Leeds	29/04/2016	Leeds, UK
+A61	Newcastle Algorave	30/04/2016	Newcastle, UK
+A62	Algorave@Rave London	06/05/2016	London, UK
+A63	Antwerp Algorave	14/05/2016	Antwerp, BEL
+A64	Algorave at XXX Gallery – ISEA 2016	20/05/2016	Hong Kong, HKG
+A65	Algorave at Forestlimit	27/05/2016	Tokyo, JAP
+A66	Algorave at Spazio Rita	28/05/2016	Nagoya, JAP
+A67	Algorave Sheffield (17/06)	17/06/2016	Sheffield, UK
+A68	Algorave en Laberinto Cultural SantaMa	09/07/2016	Mexico City, MEX
+A69	Livecode.NYC Algorave	16/07/2016	New York, USA
+A70	bluedot Festival	22/07/2016	Manchester, UK
+A71	Algorave-Dorkbot EMFCamp village	5-7/08/2016	Guildford, UK
+A72	Algorave en El77, Centro Cultural Autogestivo	07/08/2016	Mexico City, MEX
+A73	Algorave Transpiksel	09/09/2016	Mexico City, MEX
+A74	Troy Algorave	14/09/2016	Troy, USA
+A75	Algorave Barcelona	07/10/2016	Barcelona, SPA
+A76	Algorave at iOFF Pisa	07/10/2016	Pisa, ITA
+A77	Algorave at the Spice Factory	16/10/2016	Hamilton, CAN
+A78	Idle Chatter Algorave	22/10/2016	Salford, UK
+A79	Babycastles Algorave	31/10/2016	New York, USA
+A80	Algorave Detroit	10/11/2016	Detroit, USA
+A81	Conditional x Algorave	17/11/2016	London, UK
+A82	Algorave at AlgoMech Festival 2016	18/11/2016	Sheffield, UK
+A83	Jubez Algorave 2016	19/11/2016	Karlsruhe, GER
+A84	Manchester Algorave #3	20/11/2016	Manchester, UK
+A85	Piksel16 Zero Level	25/11/2016	Bergen, NOR
+A86	Schwet x Algorave	26/11/2016	Bristol, UK
+A87	Algorave Birmingham	03/12/2016	Birmingham, UK
+A88	Algorave Montreal	09/01/2017	Montreal, CAN
+A89	Transmediale	03/02/2017	Berlin, GER
+A90	Algorave at Rough Trade	12/02/2017	Nottingham, UK
+A91	Algorave 5th birthday miniparty	17/03/2017	Sheffield, UK
